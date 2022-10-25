@@ -17,10 +17,10 @@ tr:nth-child(2n+1){
   color: white;
 }
 
-tr:nth-child(2n):hover{
+tr:nth-child(2n) td:hover{
   background-color: blue
 }
 
-tr:nth-child(2n+1):hover{
+tr:nth-child(2n+1) td::hover{
   background-color: red;
 }

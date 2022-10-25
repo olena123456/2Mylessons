@@ -1,0 +1,36 @@
+.block{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding-bottom: 2000px;
+}
+
+.one{
+    background-color: gray;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.posit{
+    border: 5px solid red;
+    position: absolute;
+    background-color: green;
+    top: 20px;
+    left: 250px;
+}
+
+.right{
+    top: 20px;
+    position: fixed;
+}
+
+/*float*/
+.ones{
+    float: left;
+    width: 100px;
+}
+.two{
+    float: right;
+}
