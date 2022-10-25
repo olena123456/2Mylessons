@@ -1,0 +1,18 @@
+table {
+  border: 1px solid lightgreen;
+}
+
+
+tr:nth-child(2n+1) td:nth-child(2n){
+  background: black;
+  color: white;
+}
+
+tr:nth-child(2n) td:nth-child(2n+1){
+  background: black;
+  color: white;
+}
+
+td:hover{
+  background: yellow;
+}

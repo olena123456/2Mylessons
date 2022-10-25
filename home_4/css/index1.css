@@ -1,0 +1,49 @@
+.name1{
+margin: 0 auto;
+padding:15px;
+background: rgb(221,160,221);
+font-weight: bold;
+color: blue;
+width: 320px;
+border: 5px solid BlueViolet;
+}
+
+.name2{
+width: 450px;
+margin: 0 auto;
+margin-top: 35px;
+margin-bottom: 35px;
+}
+
+.name3{
+width: 400px;
+margin: 0 auto;
+}
+
+.t1{
+font-weight: bold;
+}
+
+.t2{
+font-weight: bold;
+color: red;
+}
+
+.t3{
+  border: 1px dashed black;
+}
+
+.t4{
+  background: yellow;
+}
+
+.br1{
+  width: 300px;
+  color: blue;
+  border-left: 4px solid red;
+  padding-left: 15px;
+}
+
+.p{
+  text-indent: 25px;
+}

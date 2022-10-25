@@ -1,0 +1,24 @@
+body{
+  font-family: sans-serif;
+  width: 405px;
+}
+
+h1{
+  color: blue;
+  text-shadow: 2px 2px darkblue;
+}
+
+span{
+  font-style: italic;
+  color: blue;
+}
+
+.selector{
+  margin: 0 auto;
+  padding: 25px;
+  border: 1px solid black;
+  background-color: lightgrey;
+}
+.div1{
+
+}

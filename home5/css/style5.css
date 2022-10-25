@@ -1,0 +1,26 @@
+table{
+  height: 210px;
+  width: 380px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th{
+  border: 2px solid black;
+}
+
+td{
+  border: 2px solid black;
+}
+tr:nth-child(2n+1){
+  background-color: black;
+  color: white;
+}
+
+tr:nth-child(2n):hover{
+  background-color: blue
+}
+
+tr:nth-child(2n+1):hover{
+  background-color: red;
+}
