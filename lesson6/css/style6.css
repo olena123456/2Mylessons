@@ -1,8 +1,10 @@
-.one{
+.one,.two{
+  height: 100px;
+
 }
 
 .pic1{
-  width: 10%;
+  height: 200px;
   float:left;
 }
 
