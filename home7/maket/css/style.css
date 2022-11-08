@@ -36,3 +36,25 @@ nav ul{
 nav a{
   color: white;
 }
+
+ul.icon{
+  list-style-type: none;
+}
+
+#fio {
+ font-weight: bolder;
+ text-align: left;
+ font-size: 30em;
+}
+
+h2 {
+font-weight: bold;
+}
+
+.info{
+  font-weight: bold;
+}
+
+.container2{
+  display:  flex;
+}

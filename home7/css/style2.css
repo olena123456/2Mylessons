@@ -1,0 +1,41 @@
+header, #menu1, #menu2, .content, footer {
+text-align: center;
+border-style: solid;
+border-color: black;
+border-bottom: 2px;
+margin: 0px;
+padding: 0px;
+}
+
+header, footer {
+width: 100%;
+height: 70px;
+}
+
+header{
+background-color: yellow;
+}
+
+#menu1{
+background-color: lightblue;
+}
+
+#menu2{
+background-color: blue;
+width: 30%;
+}
+
+.content {
+background-color: lavender;
+width: 70%;
+}
+
+.container {
+    width: 100%;
+    height: 210px;
+    display: flex;
+    }
+
+footer{
+background-color: orange;
+}
